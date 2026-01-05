@@ -3,6 +3,10 @@
 <img src="https://i.pinimg.com/originals/64/72/36/647236fc1c3aec4ac575c4ed5a8ca524.gif" alt="Banner" width="100%" />
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=crackmind-collective&label=VISITORS&color=blueviolet&style=flat-square" alt="Visitors Count" />
+</p>
+
+<p align="center">
   <strong>Breaking conventions. Building benchmarks.</strong>
 </p>
 
